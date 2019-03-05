@@ -1,0 +1,41 @@
+<html>
+
+
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="referrer" content="always" />
+<meta name="description" content="达芬奇睡眠法(Da Vinci sleep)是一种将人类习惯的单次睡眠过程分散成多个睡眠周期进行，以达成减少睡眠时间的睡眠方式，又称多阶段睡眠（Polyphasic sleep）、Uberman睡眠或多相睡眠。...">
+<title>达·芬奇睡眠法_百度百科</title>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" sizes="any" mask href="//www.baidu.com/img/baidu.svg">
+
+<meta name="keywords" content="达·芬奇睡眠法 达芬奇睡眠法 达·芬奇睡眠法创造 达·芬奇睡眠法合理性 达·芬奇睡眠法方法 达·芬奇睡眠法调整 达·芬奇睡眠法“谣言”粉碎 达·芬奇睡眠法可行性 达·芬奇睡眠法建议">
+<meta name="image" content="https://bkssl.bdimg.com/cms/static/baike.png">
+<script type="text/javascript">
+  // 配置 PD 监控。
+  window.alogObjectConfig = {
+    product: '103',
+    page: '103_1',
+    speed: {
+      sample: '0.008'
+    },
+    monkey: {
+      sample: '1',
+      hid: '1533'
+    },
+    exception: { 
+      sample: '0.004'
+    },
+    feature: {
+      sample: '0.004'
+    },
+    csp: {
+      sample: '0.008',
+      'default-src': [
+        {match: '*.baidu.com,*.bdimg.com,localhost', target: 'Accept'},
+        {match: '*', target: 'Accept,Warn'}
+      ]
+    }
+  };
